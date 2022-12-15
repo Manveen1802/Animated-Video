@@ -1,0 +1,21 @@
+html {
+    height:100%;
+  }
+  body {
+    height: 4000px;
+  }
+  video {
+    position: fixed;
+    left: 50%;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: 100%;
+    z-index: -100;
+    background-size: cover;
+    transform: translateX(-50%);
+ 
+  }
+  
+  
